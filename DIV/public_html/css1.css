@@ -1,0 +1,44 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 1 Mar, 2019, 12:39:26 AM
+    Author     : Deepak Pal
+*/
+
+
+/*body {
+     background-color: ;
+}*/
+h1
+{
+     text-align: center;
+     padding: 20px;
+     color: red;
+}
+h3
+{ 
+    text-align: center;
+    color: crimson;
+}
+p {
+     text-align: center;
+     background-color: orange;
+     color:black;
+}
+#one
+{
+     float: left;
+     padding-left: 100px;
+}
+#two
+{
+     float: right;
+     padding-right: 130px;
+}
+ol,
+ul {
+     color: #333333;
+}
